@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\workspace.csproj": {}
+    "C:\\Users\\YJ\\Desktop\\cSharpStudy\\cSharp\\workspace.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\workspace.csproj": {
+    "C:\\Users\\YJ\\Desktop\\cSharpStudy\\cSharp\\workspace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\workspace.csproj",
+        "projectUniqueName": "C:\\Users\\YJ\\Desktop\\cSharpStudy\\cSharp\\workspace.csproj",
         "projectName": "workspace",
-        "projectPath": "C:\\workspace\\workspace.csproj",
+        "projectPath": "C:\\Users\\YJ\\Desktop\\cSharpStudy\\cSharp\\workspace.csproj",
         "packagesPath": "C:\\Users\\YJ\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\obj\\",
+        "outputPath": "C:\\Users\\YJ\\Desktop\\cSharpStudy\\cSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\YJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
